@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  background-color: #0f0f0f;
+}
+
+.second-background {
+  background-color: #212121;
+}
+
+.three-background {
+  background-color: #282828;
+}
